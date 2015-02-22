@@ -434,7 +434,7 @@ module.exports = function (grunt) {
         },
         heroku: {
             options: {
-                remote: 'git@heroku.com:mysterious-tundra-6446.git',
+                remote: 'https://git.heroku.com/mysterious-tundra-6446.git',
                 branch: 'master'
             }
         }
